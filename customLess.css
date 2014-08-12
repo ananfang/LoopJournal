@@ -118,6 +118,14 @@
     color: #555555;
     font-size: 24px;
   }
+  .app-coming-soon {
+    font-family: HelveticaNeue-Thin, sans-serif;
+    font-weight: lighter;
+    color: #e74c3c;
+    font-size: 40px;
+    padding-top: 24px;
+    padding-bottom: 16px;
+  }
 }
 @media (max-width: 1023px) {
   .app-title {
@@ -133,6 +141,14 @@
     font-weight: lighter;
     color: #555555;
     font-size: 15px;
+  }
+  .app-coming-soon {
+    font-family: HelveticaNeue-Thin, sans-serif;
+    font-weight: lighter;
+    color: #e74c3c;
+    font-size: 30px;
+    padding-top: 24px;
+    padding-bottom: 8px;
   }
 }
 /* Sharing */
