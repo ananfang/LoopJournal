@@ -140,15 +140,15 @@
     font-family: HelveticaNeue-Thin, sans-serif;
     font-weight: lighter;
     color: #555555;
-    font-size: 16px;
+    font-size: 15px;
   }
   .app-coming-soon {
     font-family: HelveticaNeue-Thin, sans-serif;
     font-weight: lighter;
     color: #e74c3c;
     font-size: 21px;
-    padding-top: 21px;
-    padding-bottom: 15px;
+    padding-top: 18px;
+    padding-bottom: 18px;
   }
 }
 /* Sharing */
