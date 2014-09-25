@@ -116,15 +116,13 @@
     font-family: HelveticaNeue-Thin, sans-serif;
     font-weight: lighter;
     color: #555555;
-    font-size: 28px;
+    font-size: 24px;
   }
-  .app-coming-soon {
+  .link-exchange {
     font-family: HelveticaNeue-Thin, sans-serif;
     font-weight: lighter;
-    color: #27ae60;
-    font-size: 36px;
-    padding-top: 24px;
-    padding-bottom: 16px;
+    color: #555555;
+    font-size: 16px;
   }
 }
 @media (max-width: 1023px) {
@@ -140,15 +138,13 @@
     font-family: HelveticaNeue-Thin, sans-serif;
     font-weight: lighter;
     color: #555555;
-    font-size: 17px;
+    font-size: 15px;
   }
-  .app-coming-soon {
+  .link-exchange {
     font-family: HelveticaNeue-Thin, sans-serif;
     font-weight: lighter;
-    color: #27ae60;
-    font-size: 21px;
-    padding-top: 18px;
-    padding-bottom: 27px;
+    color: #555555;
+    font-size: 14px;
   }
 }
 /* Sharing */
